@@ -1,0 +1,25 @@
+.home{
+  background: lightgoldenrodyellow;
+  width: 600px;
+  height: 400px;
+  &__container{
+    background: lightpink;
+    width: 500px;
+    height: 300px;
+  }
+  &__header{
+    background: lightcoral;
+    width: 100%;
+    height: 10%;
+  }
+  &__main{
+    background: lightskyblue;
+    width: 100%;
+    height: 70%;
+  }
+  &__footer{
+    background: lightseagreen;
+    width: 100%;
+    height: 20%;
+  }
+}
